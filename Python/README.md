@@ -21,7 +21,15 @@
 - 리스트 슬라이싱
 
 ## Week3
-numpy 배움
+numpy
+- 배열
+- random
+- .shape
+- np.reshape()
+- np.expand_dims()
+- 슬라이싱
+- np.max, np.min
+- 전역변수, 지역변수
 
 ## Week3-2
 엑셀로 타이타닉 데이터 분석하고 케글에 업로드

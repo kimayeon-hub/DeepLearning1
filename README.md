@@ -33,7 +33,7 @@ numpy
 - np.max, np.min
 - 전역변수, 지역변수
 
-## Week3-2
+## [Week3-2](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week3_2.ipynb)
 엑셀로 타이타닉 데이터 분석하고 케글에 업로드
 
 ## Week3-3

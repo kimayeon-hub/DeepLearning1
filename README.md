@@ -13,7 +13,7 @@
 - 변수
 - 함수
 
-## Week2
+## [Week2](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week2.ipynb)
 연습 문제 풀기
 - 반복문
 - 조건문

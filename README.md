@@ -6,7 +6,7 @@
 - 딥러닝1에서 사용할 python의 기초 문법
 - 딥러닝 이론
 
-## [Week1]()
+## [Week1](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week1.ipynb)
 파이썬 기초 문법
 - 연산
 - numpy

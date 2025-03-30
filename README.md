@@ -39,12 +39,12 @@ numpy
 ## [Week3-3](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week3_3.ipynb)
 파이썬 기초 문법과 판다스로 타이타닉 데이터 분석
 
-## Week4
+## [Week4](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week4.ipynb)
 데이터 분석 실습: 코로나19 확진자 추이 데이터 시각화하기
 - 대한민국의 코로나 확진자, 사망자, 회복자 추이 시각화하기
 - 전 세계의 코로나 확진자, 사망자 회복자 추이 시각화하기
 
-## Week4-2
+## [Week4-2](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week4_2.ipynb)
 딥러닝 이론에 대해 배우고, 타이타닉 데이터 전처리하기
 - 범주형 데이터의 수치화
 - 수치형 데이터의 정규화

@@ -22,7 +22,7 @@
 - 딕셔너리
 - 리스트 슬라이싱
 
-## Week3
+## [Week3](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week3.ipynb)
 numpy
 - 배열
 - random

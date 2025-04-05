@@ -53,5 +53,10 @@ numpy
 ## [Week5](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week5.ipynb)
 완전 연결층과 타이타닉 데이터 활용
 - Week4-2에서 한 데이터 전처리를 함수화 하기
+
+## [Week5-2](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week5_2.ipynb)
+딥러닝(다층신경망)을 사용하는 타이타닉 데이터 분석과 하이퍼 파라미터 조정의 기초
+- 딥러닝 중에서도 완전연결층을 사용하는 다층신경망을 사용
+- 그래프를 보고 모델을 어떻게 수정할 것인지 판단하기
 - 완전 연결층과 타이타닉 데이터를 사용해 딥러닝 돌리기
 - 파라미터들을 조금 수정해서 정확도 높여 보기 (0.77511 -> 0.78468)

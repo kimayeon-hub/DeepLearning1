@@ -71,3 +71,8 @@ Chat GPT를 활용하는 딥러닝 집 가격(House Prices) 예측
 ## [Week5-4](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week5_4.ipynb)
 [과제] house prices 모델의 하이퍼 파라미터를 변경시켜 새로운 모델 만들기
 -  0.24659 -> 0.36208으로 예측률이 높아짐
+
+## [Week6](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week6.ipynb)
+합성곱과 이미지
+- 이미지
+- 합성곱(convolution)

@@ -76,3 +76,12 @@ Chat GPT를 활용하는 딥러닝 집 가격(House Prices) 예측
 합성곱과 이미지
 - 이미지
 - 합성곱(convolution)
+
+## [Week6-2](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week6_2.ipynb)
+MNIST 데이터셋을 딥러닝을 사용해서 학습시키기
+- 이미지 데이터 학습 모델 만들기
+  - convolution layer 사용
+- 모델 평가 방법
+  - accracy
+  - confusion matrix
+  - 예측 실패한 데이터 살펴보기

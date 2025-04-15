@@ -85,3 +85,25 @@ MNIST 데이터셋을 딥러닝을 사용해서 학습시키기
   - accracy
   - confusion matrix
   - 예측 실패한 데이터 살펴보기
+
+## [Week7](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week7.ipynb)
+Sign Language MNIST 데이터셋을 사용해서 딥러닝으로 학습시키기
+- 데이터 전처리 및 모델 만들기
+- 모델 평가
+  - accuracy
+  - confusion matrix
+  - confusion matrix (3가지 이상으로 값이 나뉠 때)
+  - precision
+  - recall
+
+## [Week7-2](https://github.com/kimayeon-hub/DeepLearning1/blob/main/Week7_2.ipynb)
+지도학습 결과의 분석 방법 배우기
+- 학습과 테스트
+- 정확도
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+- Confusion Matrix
+- AUC
+- N-Fold validation
